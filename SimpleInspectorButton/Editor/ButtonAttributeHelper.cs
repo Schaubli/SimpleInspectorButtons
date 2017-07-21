@@ -31,6 +31,13 @@ public class ButtonAttributeHelper
         if (methods.Count > 0)
         {
             EditorGUILayout.Space();
+            EditorGUILayout.Space();
+            EditorGUILayout.Space();
+            EditorGUILayout.Space();
+            EditorGUILayout.Space();
+            EditorGUILayout.Space();
+            EditorGUILayout.Space();
+            EditorGUILayout.Space();
             EditorGUILayout.PrefixLabel("Executable methods:");
             ShowMethodButtons();
         }
